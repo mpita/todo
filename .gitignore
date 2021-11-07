@@ -274,4 +274,5 @@ todo/media/
 
 .pytest_cache/
 
-
+# IDE
+.idea/
